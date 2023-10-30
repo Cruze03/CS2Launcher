@@ -372,7 +372,7 @@ app.on('openSettingsWindow', () => { createSettingsWindow() });
 function createAboutWindow() {
     // TODO: create about window
     // go to github page
-    shell.openExternal('https://github.com/rcon420/Launcher');
+    shell.openExternal('https://github.com/cruze03/CS2Launcher');
 }
 
 app.on('openAboutWindow', () => { createAboutWindow() });
